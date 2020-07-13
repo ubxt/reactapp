@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Mustafa Murat",
+      "salary": "5000",
+      "department": "Bilişim"
+    },
+    {
+      "id": "unique-2",
+      "name": "Ünal Berke",
+      "salary": "6000",
+      "department": "Pazarlama"
+    },
+    {
+      "name": "Ünal",
+      "department": "İK",
+      "salary": "300",
+      "id": "QIx3hQF"
+    },
+    {
+      "name": "Ünal Ünal Ünal",
+      "salary": "5000",
+      "department": "İnsan Kaynakları",
+      "id": "6CKrCOz"
+    }
+  ]
+}
